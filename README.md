@@ -183,7 +183,7 @@ Publish the website in the given URL.
 ![output](./static/img/r1.png)
 
 ## RESULT:
-Thus, a webserver is designed to display multiplication table and is hosted in the URL
+Thus, a webserver is designed to display house price prediction and is hosted in the URL
 http://jayashreerao.student.saveetha.in:8000/HouseModelTraining/ 
 
 & 
